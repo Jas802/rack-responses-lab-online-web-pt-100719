@@ -8,5 +8,6 @@ def call(env)
     resp.write "Good Morning"
   end
   resp.finish
+end
 
 end
